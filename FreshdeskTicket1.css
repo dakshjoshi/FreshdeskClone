@@ -1,0 +1,128 @@
+.ticket {
+  background-color: #12344d;
+  height: 100%;
+  width: 4%;
+  float: left;
+  color: white;
+  text-align: center;
+  padding-top: 2%;
+  font-size: 20px;
+}
+
+.margin1 {
+  height: 10%;
+  width: 96%;
+  float: left;
+  font-size: 36px;
+  background-color: white;
+  padding: 5px;
+}
+
+.margin2 {
+  height: 7%;
+  width: 96%;
+  float: left;
+  background-color: #f5f7f9;
+  color: #183247;
+  border-bottom: 1px #cfd7df solid;
+  border-top: 1px #cfd7df solid;
+  padding: 5px;
+}
+.heading2 {
+  font-size: 28px;
+  margin: 10px;
+}
+body {
+  background-color: whitesmoke;
+}
+
+.width {
+  width: 100px;
+}
+
+#Update {
+  width: 100px;
+  border-radius: 5px;
+}
+
+.StatusPriority {
+  float: right;
+}
+
+.userDetails {
+  height: 80%;
+  width: 17%;
+  background-color: white;
+  float: right;
+  margin: 10px;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.colourBox {
+  position: relative;
+  height: 50px;
+  width: 50px;
+
+  text-align: center;
+
+  padding-bottom: 5px;
+  font-size: 30px;
+  margin-left: 90px;
+  margin-top: 25px;
+
+  color: rgb(129, 175, 37);
+  border: 1px rgb(129, 175, 37) solid;
+  border-radius: 5px;
+  background-color: rgb(220, 253, 154);
+}
+
+.colourBigBox {
+  text-align: center;
+}
+
+.StatusPriority {
+  /* float: right;
+  margin: 75px; */
+  height: 80%;
+  width: 12%;
+  background-color: white;
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+  border-radius: 10px;
+  padding: 10px;
+  text-align: center;
+}
+
+.StatusPriorityBox {
+  margin-left: 15px;
+  margin-top: 100px;
+}
+
+.details {
+  margin-top: 25px;
+}
+
+.mobilePhone,
+.phoneNumber {
+  font-size: 12px;
+}
+
+.ticket1 {
+  height: 80%;
+  width: 64.5%;
+  float: left;
+  margin: 10px;
+  border-radius: 10px;
+  padding: 10px;
+  background-color: white;
+}
+
+.Query {
+  font-size: 28px;
+}
+
+.QueryTime {
+  font-size: 12px;
+}
